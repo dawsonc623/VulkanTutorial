@@ -341,3 +341,6 @@ healthchecksdb
 
 # Exteral libraries
 external/
+
+# Compiled shaders
+*.spv
